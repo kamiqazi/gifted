@@ -192,8 +192,8 @@ async function ConnectGiftedToWA() {
           forwardingScore: 5,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-            newsletterJid: "120363279165281090@newsletter",
-            newsletterName: "GIFTED-TECH",
+            newsletterJid: "120363174979265795@newsletter",
+            newsletterName: "⏤͟͟͞➣⃟⃟🍒𝚫𝐘𝚫𝚭~ ⃟⃟⃟⃟❤️",
             serverMessageId: 143
           }
         }
