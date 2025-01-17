@@ -187,7 +187,7 @@ async function ConnectGiftedToWA() {
         image: {
           url: botPic
         },
-        caption: "\n*" + botName + " 𝐕𝟓 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃*\n\n𝐏𝐫𝐞𝐟𝐢𝐱       : *[ " + prefix + " ]*\n𝐌𝐨𝐝𝐞        : *" + botMode + "*\n𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦     : *" + os.platform() + "*\n𝐌𝐚𝐜𝐡𝐢𝐧𝐞:    : *" + os.machine() + "*\n𝐎𝐰𝐧𝐞𝐫       : *" + ownerNumber + "*\n𝐒𝐞𝐫𝐯𝐞𝐫 𝐑𝐚𝐦: *" + formatBytes(freeMemoryBytes) + "/" + formatBytes(totalMemoryBytes) + "*\n𝐒𝐮𝐝𝐨𝐬        : *" + sudoNumbers + "*\n𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥𝐬     : *youtube.com/@giftedtechnexus*\n𝐔𝐩𝐝𝐚𝐭𝐞𝐬      : *https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l*\n\n> " + global.footer,
+        caption: "\n*" + botName + " 𝐕𝟓 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃*\n\n𝐏𝐫𝐞𝐟𝐢𝐱       : *[ " + prefix + " ]*\n𝐌𝐨𝐝𝐞        : *" + botMode + "*\n𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦     : *" + os.platform() + "*\n𝐌𝐚𝐜𝐡𝐢𝐧𝐞:    : *" + os.machine() + "*\n𝐎𝐰𝐧𝐞𝐫       : *" + ownerNumber + "*\n𝐒𝐞𝐫𝐯𝐞𝐫 𝐑𝐚𝐦: *" + formatBytes(freeMemoryBytes) + "/" + formatBytes(totalMemoryBytes) + "*\n𝐒𝐮𝐝𝐨𝐬        : *" + sudoNumbers + "*\n𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥𝐬     : *Instagram.com/ayazaliofc*\n𝐔𝐩𝐝𝐚𝐭𝐞𝐬      : *https://whatsapp.com/channel/0029VaCo4fs6BIErVbJ9ey0k*\n\n> " + global.footer,
         contextInfo: {
           forwardingScore: 5,
           isForwarded: true,
